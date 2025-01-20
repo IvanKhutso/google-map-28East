@@ -1,7 +1,5 @@
 # google-map-28East
 
-# Google Maps Web App
-
 This is a simple web application that integrates Google Maps with an address autocomplete feature. Users can search for locations, drop pins on the map, and view details about the selected location.
 
 ---
